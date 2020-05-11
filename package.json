@@ -1,0 +1,25 @@
+{
+  "name": "14-teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fguzmanrs/14-teamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fguzmanrs/14-teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/fguzmanrs/14-teamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "jest": "^24.9.0",
+    "require-path": "^0.3.0"
+  }
+}
