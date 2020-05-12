@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fguzmanrs/14-teamProfileGenerator.git"
+    "url": "git+https://github.com/fguzmanrs/10-teamProfileGenerator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fguzmanrs/14-teamProfileGenerator/issues"
+    "url": "https://github.com/fguzmanrs/10-teamProfileGenerator/issues"
   },
-  "homepage": "https://github.com/fguzmanrs/14-teamProfileGenerator#readme",
+  "homepage": "https://github.com/fguzmanrs/10-teamProfileGenerator#readme",
   "dependencies": {
     "inquirer": "^7.0.0",
     "jest": "^24.9.0",
